@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(65, 37, 37);
+}
+
+.container{
+    background-color: rgb(156, 174, 174);
+    border: 1px solid black;
+    height: auto;
+    width: 300px;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 20px;
+    margin: 10rem auto;
+}
+
+.titulo{
+    font-family: 'Press Start 2P', cursive;
+    background-color: rgb(222, 169, 169);
+    border: 1px solid black;
+    text-shadow: 1px 1px 2px black;
+    border-radius: 40px;
+    box-shadow: 1px 1px 4px black;
+}
+
+.input{
+    font-family: 'Press Start 2P', cursive;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 0.3rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 4px black;
+}
+
+.butao{
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 40px;
+    font-size: large;
+}
+
+.st{
+    font-family: 'Press Start 2P', cursive;
+}
